@@ -1,4 +1,4 @@
-# utmag-ogimage-generator
+# vue-ogimage-generator
 
 ## Project setup
 ```
